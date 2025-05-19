@@ -5,6 +5,8 @@ using UnitTestDemoApplication.Models;
 
 namespace UnitTestDemoApplication.Services;
 
+//replicating our endpoints
+//similar to my controller - but without the endpoint functionality
 /// <summary>
 /// Service for managing todo items. Can add a new item, and get a specific item by id.
 /// </summary>

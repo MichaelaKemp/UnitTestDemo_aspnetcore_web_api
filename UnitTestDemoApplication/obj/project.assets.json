@@ -4221,19 +4221,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/ow/.nuget/packages/": {}
+    "C:\\Users\\m1cha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ow/Desktop/UnitTestDemo/UnitTestDemoApplication/UnitTestDemoApplication.csproj",
+      "projectUniqueName": "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemoApplication\\UnitTestDemoApplication.csproj",
       "projectName": "UnitTestDemoApplication",
-      "projectPath": "/Users/ow/Desktop/UnitTestDemo/UnitTestDemoApplication/UnitTestDemoApplication.csproj",
-      "packagesPath": "/Users/ow/.nuget/packages/",
-      "outputPath": "/Users/ow/Desktop/UnitTestDemo/UnitTestDemoApplication/obj/",
+      "projectPath": "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemoApplication\\UnitTestDemoApplication.csproj",
+      "packagesPath": "C:\\Users\\m1cha\\.nuget\\packages\\",
+      "outputPath": "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemoApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ow/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\m1cha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -4329,7 +4329,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

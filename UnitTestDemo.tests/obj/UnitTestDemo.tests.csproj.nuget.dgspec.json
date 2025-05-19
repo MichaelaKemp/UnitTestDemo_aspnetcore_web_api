@@ -1,9 +1,90 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemoApplication\\UnitTestDemoApplication.csproj": {}
+    "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemo.tests\\UnitTestDemo.tests.csproj": {}
   },
   "projects": {
+    "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemo.tests\\UnitTestDemo.tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemo.tests\\UnitTestDemo.tests.csproj",
+        "projectName": "UnitTestDemo.tests",
+        "projectPath": "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemo.tests\\UnitTestDemo.tests.csproj",
+        "packagesPath": "C:\\Users\\m1cha\\.nuget\\packages\\",
+        "outputPath": "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemo.tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\m1cha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemoApplication\\UnitTestDemoApplication.csproj": {
+                "projectPath": "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemoApplication\\UnitTestDemoApplication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.13.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\Varsity\\Year-3\\Interactive-Development\\Semester-1\\Theory\\Classwork\\UnitTestDemo_aspnetcore_web_api\\UnitTestDemoApplication\\UnitTestDemoApplication.csproj": {
       "version": "1.0.0",
       "restore": {
